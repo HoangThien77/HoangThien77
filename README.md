@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello World, I'm Hoàng Thiện!</h1>
+<h1 align="center">👋 Hello, I'm Hoàng Thiện!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&width=435&lines=Full-Stack+Developer;JavaScript+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&width=435&lines=Full-Stack+Developer;JavaScript+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" style="margin-left: 20px" />
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <hr>
 
 <div align="center">
-  <img align="right" width="400" src="https://media.giphy.com/media/xT5LMTwuWXEb7G8pTa/giphy.gif" alt="Cat Typing GIF" />
+  <img align="right" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazEza3RobWxscDR6amhpZzlrdnFhMW9udTV4cDdia2h4ZmpheHdlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgNeJYqUr753oY0/giphy.gif" alt="Cat Typing GIF" />
   
   <div align="left" width="400">
     <h2>💫 About Me</h2>
