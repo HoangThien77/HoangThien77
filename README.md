@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Hoàng Thiện!</h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6A5ACD&width=435&lines=Full-Stack+Developer;JavaScript+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" style="margin-left: 20px" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&center=true&color=6A5ACD&width=500&lines=I'm+a+Software+Engineer;JavaScript+Enthusiast;React+%26+Next.js+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
