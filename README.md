@@ -17,7 +17,7 @@
 <hr>
 
 <div align="center">
-  <img align="right" width="400" src="https://i.imgflip.com/65efzo.gif" alt="Coding GIF" />
+  <img align="right" width="400" src="https://media.giphy.com/media/xT5LMTwuWXEb7G8pTa/giphy.gif" alt="Cat Typing GIF" />
   
   <div align="left" width="400">
     <h2>💫 About Me</h2>
