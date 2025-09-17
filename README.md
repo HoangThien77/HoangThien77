@@ -82,8 +82,6 @@
   <br/><br/><br/>
 </div>
 
-<hr>
-
 <h2 align="center">💖 Thank You For Visiting!</h2>
 
 <div align="center">
